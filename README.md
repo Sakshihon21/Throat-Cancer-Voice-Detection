@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Throat Cancer Detection using Voice
 
 A non-invasive AI project for early detection of throat cancer from voice recordings.
@@ -12,3 +13,7 @@ A non-invasive AI project for early detection of throat cancer from voice record
 2. Place demo audio files in `data/healthy` and `data/cancer`.
 3. Run training:
 4.Model saved as `throat_cancer_model.h5
+=======
+# Throat-Cancer-Voice-Detection
+A simple deep-learning project for early detection of throat cancer using voice signal analysis (MFCC, Chroma, Spectral Features) with CNN-LSTM. Non-invasive AI health screening demo.
+>>>>>>> 12cbd514cf448d2a7949c2b41db08a48ffc3c2e6
